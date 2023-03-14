@@ -3,7 +3,7 @@
 
 ## 파일(csv, jpg, wav)을 프로젝트에 업로드 
 
-![image](https://user-images.githubusercontent.com/24836829/224903834-33534a8e-3ffd-4420-889f-82aa1bd7fcb8.png)
+![image](https://user-images.githubusercontent.com/24836829/224904938-1d9fdaa3-1eee-41d1-a1e0-cfdcf7d21299.png)
 
 edge-impulse-uploader --clean
 
